@@ -1,8 +1,8 @@
 # College Helpdesk Agent
 
-## Overview
-
 A proof-of-concept agentic AI solution designed to streamline college support operations and improve student experience. This project was developed for the **IBM Dev Day AI Demystified Hackathon**.
+
+https://github.com/user-attachments/assets/951fc626-bae8-4249-8869-f015098df2af
 
 ## Problem Statement
 
